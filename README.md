@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NgazoireRT
-- 👀 I’m interested in ...becoming a Front end Developer
-- 🌱 I’m currently learning HTML & CSS 
+- 👀 I’m interested in ...Data 
+- 🌱
 
 <!---
 NgazoireRT/NgazoireRT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
