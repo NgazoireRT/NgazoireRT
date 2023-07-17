@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NgazoireRT
-- 👀 I’m interested in ...Data 
+- 👀 I’m interested in ...Data and currently enrolled on LSE- Data Analytics Career Accelerator course. 
 - 🌱
 
 <!---
